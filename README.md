@@ -40,7 +40,7 @@ Hello! I'm **SURIYA RK**, a second-year Electrical and Electronics Engineering s
 ## 📫 **Let’s Connect**
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/suriya-r-k"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/suriyark"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:suriyarkds1@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
