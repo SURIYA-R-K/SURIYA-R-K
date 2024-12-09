@@ -2,6 +2,8 @@
   <img src="https://via.placeholder.com/1200x300.png?text=Empowering+Tech+Through+VLSI" alt="Banner">
 </div>
 
+
+
 # 👋 **Welcome to My GitHub Universe!**
 
 🚀 **Passionate VLSI Enthusiast | Future Innovator in Semiconductor Design | Tech Explorer**  
