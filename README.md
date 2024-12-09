@@ -1,54 +1,50 @@
-<div align="center">
-  <img height="250" src="https://www.tessolve.com/wp-content/uploads/2023/12/memory-testing-post.jpg"  />
-</div>
+# 💻 **Welcome to My GitHub!**  
 
-###
+![Banner](https://via.placeholder.com/1200x300.png?text=VLSI+Enthusiast+%7C+Tech+Learner+%7C+Problem+Solver)
 
-<h1 align="center">Hey there this is Suriya RK👋</h1>
+Hi there! 👋 I'm **SURIYA RK**, a second-year Electrical and Electronics Engineering student with a passion for **VLSI design** and technology. I love exploring the intersection of hardware and software to create impactful solutions.  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🌟 **About Me**  
+🔹 VLSI enthusiast with a keen interest in **digital electronics and circuit design**  
+🔹 Skilled in **C, Python, Verilog, and Linux**  
+🔹 Proficient in tools like **Xilinx Vivado, ModelSim, Blender, and Git**  
+🔹 Exploring advanced topics like ASIC design, FPGA development, and simulation tools  
 
-###
+---
 
-<p align="left">Electrical and Electronics Engineering student with a strong passion for VLSI design and digital circuit optimization. Aspiring to contribute to innovative semiconductor technology solutions.</p>
+## 🛠️ **Skills & Tools**  
 
-###
+### **Programming & Scripting**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
-<h3 align="left">🛠 Language and tools</h3>
+### **VLSI & Hardware Tools**  
+![Verilog](https://img.shields.io/badge/-Verilog-007ACC?style=flat&logoColor=white)  
+![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-F34F29?style=flat&logo=xilinx&logoColor=white)  
+![ModelSim](https://img.shields.io/badge/-ModelSim-02569B?style=flat&logoColor=white)  
 
-###
+### **Design & Development**  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)   
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" height="40" alt="verilog logo"  />
-</div>
+---
 
-###
+## 📊 **GitHub Stats**  
 
-<h3 align="left">🔥   My Stats :</h3>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
-###
+---
 
-<div align="left">
-  <a href="https://linkedin.com/in/suriya r k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suriya r k" height="30" width="40" /></a>
-</p>
-</div>
+## 📫 **Let's Connect!**  
 
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SURIYA R K)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suriyarkds1@gmail.com)  
+
+---
+
+⭐ **Thank you for visiting!** Feel free to explore my repositories and connect for collaboration or discussions on VLSI and digital electronics. 😊
+
