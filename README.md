@@ -32,10 +32,11 @@ Hello! I'm **SURIYA RK**, a second-year Electrical and Electronics Engineering s
 ## 🌐 **GitHub at a Glance**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dracula&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=SURIYA-R-K&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURIYA-R-K&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURIYA-R-K&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </div>
+
 
 ---
 
