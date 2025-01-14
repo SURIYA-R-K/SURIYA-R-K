@@ -12,7 +12,7 @@
 
 ## 🌟 **Who Am I?**
 
-Hello! I'm **SURIYA RK**, Electrical and Electronics Engineering student deeply fascinated by the world of **VLSI Design**, **digital circuits**, and the cutting-edge technology that powers our modern world.  
+Hello! I'm **SURIYA RK**, a Electrical and Electronics Engineering student deeply fascinated by the world of **VLSI Design**, **digital circuits**, and the cutting-edge technology that powers our modern world.  
 
 🎯 *"Dreaming big and building bigger—one transistor at a time!"*
 
