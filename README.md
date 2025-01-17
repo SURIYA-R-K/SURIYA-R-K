@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Empowering+Tech+Through+VLSI" alt="Banner">
+  <img src="https://chipedge.com/wp-content/uploads/2024/06/80915-1.jpg" alt="Banner">
 </div>
 
 
